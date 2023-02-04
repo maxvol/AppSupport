@@ -1,4 +1,4 @@
-# AppSupport
+# App Support
 
 Contact information:
 * https://twitter.com/maxim_volgin
